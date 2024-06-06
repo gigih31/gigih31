@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋 i'm Gigih Lumintang
 
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gigih31&layout=compact&theme=radical)](https://github.com/gigih31/README.md)
 <!--
 **gigih31/gigih31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
